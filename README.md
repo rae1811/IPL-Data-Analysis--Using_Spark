@@ -82,8 +82,6 @@ Shows average runs scored by players in matches won by their team.
 2. Open the notebook and run cells sequentially.
 3. Modify SQL or DataFrame logic as needed for custom analysis.
 
----
 
-## 📁 Folder Structure (Optional Suggestion)
 
 
